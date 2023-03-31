@@ -1,0 +1,22 @@
+{
+  "name": "blockchain_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "chai": "^4.3.7",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21",
+    "truffle-contract": "^4.0.31",
+    "web3": "^1.8.2"
+  }
+}
